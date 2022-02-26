@@ -9,7 +9,9 @@ A CLI based file manager for .txt files.
 1. Renaming text files.
 1. Copying text files.
 
-```
+## Help message
+
+```python3
 ┌─[Shinero@Voldemort]─[Programming/]
 └──╼ ❯❯❯ python3 main.py -h
 usage: main.py [-h] [-r file_name] [-s file_name]
@@ -40,8 +42,10 @@ options:
                         file to a new name.
 ```
 
+--
+
 ## TODO
 
-- [  ] Add write functionality.
-- [  ] Delete files in bulk.
-- [  ] Move files.
+- [ ] Add write functionality.
+- [ ] Delete files in bulk.
+- [ ] Move files.
