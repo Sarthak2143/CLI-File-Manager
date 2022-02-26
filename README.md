@@ -1,4 +1,4 @@
-#CLI-File-Manager
+# CLI-File-Manager
 
 A CLI based file manager for .txt files.                
 ## Features
@@ -13,13 +13,15 @@ A CLI based file manager for .txt files.
 ┌─[Shinero@Voldemort]─[Programming/]
 └──╼ ❯❯❯ python3 main.py -h
 usage: main.py [-h] [-r file_name] [-s file_name]
-               [-c file1 file2] [-d file_name]                         [--rename old_name new_name]
+               [-c file1 file2] [-d file_name]     
+               [--rename old_name new_name]
 
 A CLI based file manager!
 
 options:
   -h, --help            show this help message and
-                        exit                              -r file_name, --read file_name
+                        exit   
+  -r file_name, --read file_name
                         Opens and read the specified
                         file.
   -s file_name, --show file_name
