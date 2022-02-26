@@ -9,6 +9,17 @@ A CLI based file manager for .txt files.
 1. Renaming text files.
 1. Copying text files.
 
+---
+
+## Installation
+
+```bash
+git clone https://github.com/Sarthak2143/CLI-File-Manager/
+cd CLI-File-Manager/
+python3 main.py -h
+```
+---
+
 ## Help message
 
 ```bash
