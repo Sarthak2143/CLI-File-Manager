@@ -11,7 +11,7 @@ A CLI based file manager for .txt files.
 
 ## Help message
 
-```python3
+```bash
 ┌─[Shinero@Voldemort]─[Programming/]
 └──╼ ❯❯❯ python3 main.py -h
 usage: main.py [-h] [-r file_name] [-s file_name]
@@ -42,7 +42,7 @@ options:
                         file to a new name.
 ```
 
---
+---
 
 ## TODO
 
